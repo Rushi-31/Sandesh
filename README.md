@@ -34,7 +34,7 @@ To get your version of Sandesh up and running:
 
 1. **Clone or download the repository**:
     ```sh
-    git clone https://github.com/yourusername/sandesh-chat-app.git
+    git clone https://github.com/rushi-31/sandesh-chat-app.git
     ```
 2. **Set up your Firebase project** and update the `google-services.json` file with your configuration.
 3. **Build and run the app** on your Android device or emulator using Android Studio.
